@@ -5,7 +5,8 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;Computer+Science+Student;Freelancer;Open-Source+Enthusiast" alt="Headline" />
     </div>  
 
-<img align="right" alt="Coding" width="400" src="[https://media1.tenor.com/m/-mjRPllU_QUAAAAd/kid-buu.gif](https://octodex.github.com/nuxtocat/)">
+
+<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 
  <br> **Sobre mi**
