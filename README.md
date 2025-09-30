@@ -6,7 +6,7 @@
     </div>  
 
 
-<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/f6a57d3e-7236-4f57-8ec9-3b49230d8fba"> 
 
 
  <br> **Sobre mi**
