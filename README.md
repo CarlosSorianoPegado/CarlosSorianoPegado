@@ -14,7 +14,7 @@
 
  🔭 I’m currently working on [My portfolio website](https://arjuncvinod.github.io)
 
- 🌱 I’m currently learning **React.js**
+ 🌱 Estoy aprendiendo en el IES Castelar
 
  💬 Ask me about **Node.js, MongoDB, PHP, MySQL**
 
